@@ -2,7 +2,7 @@ Package.describe({
   name: 'fongandrew:spacebars-helpers',
   summary: "Additional helper functions for Spacebars",
   version: '0.1.0',
-  git: '' // TODO
+  git: 'https://github.com/fongandrew/meteor-spacebars-helpers.git'
 });
 
 Package.onUse(function(api) {
@@ -14,5 +14,3 @@ Package.onUse(function(api) {
   api.use('underscore', ['client']);
   api.addFiles('spacebars_helpers.js', ['client']);
 });
-
-// TODO - testing
