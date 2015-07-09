@@ -7,5 +7,5 @@ Installation
 
 Helpers
 -------
-All helpers are listed in `spacebars_helpers.js` and are fairly 
+All helpers are listed in [spacebars_helpers.js](spacebars_helpers.js) and are fairly 
 self-explanatory.
